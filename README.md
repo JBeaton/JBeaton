@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JBeaton
-- 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning how to write scripts
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jamie!
+- 👀 I’m interested in learning new technology, electronics, animatronics, cats, videogames
+- 🌱 I’m currently learning how to write scripts/python
+- 💞️ I’m looking to collaborate on using new tools to make my job easier
+- 📫 How to reach me: just text me!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I collect Funko Pops
 
